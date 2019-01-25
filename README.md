@@ -121,7 +121,7 @@ try {
 }
 ```
 
-* Example using `RS256`
+* Example using `RSA256`
 
 ```java
 RSAPublicKey publicKey = //Get the key instance
